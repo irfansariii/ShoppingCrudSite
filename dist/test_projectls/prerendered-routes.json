@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/",
+    "/checkoutForm",
+    "/productList",
+    "/shoppingCart",
+    "/thankYpuPage"
+  ]
+}
